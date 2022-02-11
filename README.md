@@ -2,7 +2,17 @@
 ### I'm Marlon. I hope you like and learn something on this messy repository 😅
 
 <p align="center">
-  ![General Stats](https://github-readme-stats.vercel.app/api?username=marlonklc&count_private=true&show_icons=true&theme=react)
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonklc&count_private=true&layout=compact&show_icons=true&langs_count=10&theme=react)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonklc&layout=compact&langs_count=6"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=marlonklc&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues"
+    />
+  </a>
 </p>
